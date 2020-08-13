@@ -1,2 +1,4 @@
 Hey there just checking out a few things.
-This a child branch with some additional lines just to enusre it is working fine and I can understand
+This a child branch with some additional lines just to enusre it is working fine and I can understand.
+
+I will have to make some changes to this file in order to complete this action.
