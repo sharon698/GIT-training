@@ -1,1 +1,2 @@
-Hey there just checking out a few things
+Hey there just checking out a few things.
+This a child branch with some additional lines just to enusre it is working fine and I can understand
